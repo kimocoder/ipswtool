@@ -4,7 +4,7 @@
 #include <iostream>
 #include <vector>
 
-#include "include/artie.h"
+#include "include/artie/artie.h"
 
 #define PROGRAM_NAME "ipswtool"
 #define PROGRAM_DESCRIPTION "Read IPSW file properties"
