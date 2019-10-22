@@ -35,7 +35,11 @@ int main(int argc, char *argv[]) {
 	art.args = args;
 
 	if(argc == 1) { art.print_help(); exit(0); }
-	art.print_version();
+	art.print_version(); exit(0);
+
+	// TODO
+
+	
 	
 	return 0;
 }
